@@ -1,0 +1,81 @@
+#content	{
+	width: 80%;
+	margin: auto;
+	border-radius: 5px;
+	background: #9A2A2A;
+}
+
+nav a	{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	border-bottom: 1 px solid #9A2A2A;
+	display: inline;
+}
+
+nav a hover	{
+	background: #9A2A2A;
+}
+
+#carolina	{
+	margin: auto;
+}
+
+main	{
+	background: black;
+	padding: 3px;
+	display: flex;
+}
+
+h1, h2, p, label, h3	{
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+.hidden	{
+	display:none;
+}
+
+.quiz, .col-1	{
+	text-align: center;
+	margin: auto;
+}
+
+footer	{
+	text-align: center;
+	background: #9A2A2A;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 80%;
+	margin: auto;
+	color: white;
+}
+
+nav li	{
+	width: 100%;
+	display: flex;
+	display: inline;
+	padding: 5px;
+	background: black;
+}
+
+.project, .quiz, option {
+	text-align: center;
+}
+
+body	{
+	background: white;
+	font-family: Arial, Helvedica, sans-serif;
+}
+
+header	{
+	background: #9A2A2A;
+	padding: 5px, 10px;
+}
+
+nav ul	{
+	list-style-type: none;
+	padding-left: 0;
+	text-align: center;
+}
